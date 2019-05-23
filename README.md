@@ -1,5 +1,6 @@
 # Interview with Huawei's CEO - Full English Text
-
+On 5/21/2019, Ren Zhengfei interviewed with China Central Television and other major Chinese media at Huawei's headquarters. He discussed the Trump administration, Huawei's relationship with Google, and other things. Below is the full English text of the interview.
+---
 ## Q1
 Reporter: Let me begin by saying that I have been a live journalist, and you are ex-military, so we both have a good sense of time. And time goes fast. We last spoke about four months ago in an interview, at the same place as today. Back then everyone thought Huawei was at its lowest point, which attracted a lot of media attention, which was also why you spoke with reporters from around the world. It was hard to imagine that four months later, Huawei is now in a position that's even more complicated and strenuous. Some reporters have just pulled out a photo of a "beat-up plane". I have the same photo, and have heard that this is your favorite photo. 
 ![Plane](plane.jpg)
