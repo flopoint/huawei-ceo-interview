@@ -2,7 +2,7 @@
 
 ## Q1
 Reporter: Let me begin by saying that I have been a live journalist, and you are ex-military, so we both have a good sense of time. And time goes fast. We last spoke about four months ago in an interview, at the same place as today. Back then everyone thought Huawei was at its lowest point, which attracted a lot of media attention, which was also why you spoke with reporters from around the world. It was hard to imagine that four months later, Huawei is now in a position that's even more complicated and strenuous. Some reporters have just pulled out a photo of a "beat-up plane". I have the same photo, and have heard that this is your favorite photo. 
-
+![Plane](plane.jpg)
 > Ren: I saw that photo in an online forum called "Wukong Q&A", and thought it actually looked similar to the state of our company, so I shared it. Our Carrier Network Business Group (CNBG) thought that they were the plane in the photo, so they marketed themselves as such. Now that we've looked at the situation objectively, CNBG is actually not in the biggest trouble, because they have been prepping themselves for more than a decade. We're now fixing the plane as we fly it, and hope to return safely to base.
 		
 Reporter: This plane can return because its key components are intact, such as the oil tank and the engine. It is only partially injured in its wings and some non-vital parts. What if the engine is hit? How can it return in that case?
